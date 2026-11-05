@@ -1,0 +1,70 @@
+.character-box {
+    width: 400px;
+    height: 400px;
+    border: 4px;
+    border-radius: 16;
+    margin: 100px;
+}
+
+.temp-box-venice {
+    width: 400px;
+    height: 200px;
+    background-color: #93bfbf;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    opacity: 80%;
+}
+
+.temp-box-jazmin {
+    width: 400px;
+    height: 200px;
+    background-color: #ff54f1;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    opacity: 80%;
+}
+
+.temp-box-robin {
+    width: 400px;
+    height: 200px;
+    background-color: #00fc08;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    opacity: 80%;
+}
+
+.temp-box-nic {
+    width: 400px;
+    height: 200px;
+    background-color: #ab231b;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    opacity: 80%;
+}
+
+.temp-box-aj {
+    width: 400px;
+    height: 200px;
+    background-color: #c48fd9;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    opacity: 80%;
+}
+
+.temp-box-char {
+    width: 400px;
+    height: 200px;
+    border-radius: 16px;
+    padding: 20px;
+    margin: 15px;
+    opacity: 80%;
+}
+
+.times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
+}
